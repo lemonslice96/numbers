@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToFeet", "ConsoleApplication1\InchesToFeet.csproj", "{19EF2642-9531-4174-9885-4EABEEF31B5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monogram", "monogram\monogram.csproj", "{2A020A5C-7F8D-4D5B-9FA8-6CC1B31D4BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exponent", "ConsoleApplication2\exponent.csproj", "{2B3ECE2F-6464-4410-9314-F81C7F0FC383}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +23,14 @@ Global
 		{19EF2642-9531-4174-9885-4EABEEF31B5B}.Debug|x86.Build.0 = Debug|x86
 		{19EF2642-9531-4174-9885-4EABEEF31B5B}.Release|x86.ActiveCfg = Release|x86
 		{19EF2642-9531-4174-9885-4EABEEF31B5B}.Release|x86.Build.0 = Release|x86
+		{2A020A5C-7F8D-4D5B-9FA8-6CC1B31D4BFF}.Debug|x86.ActiveCfg = Debug|x86
+		{2A020A5C-7F8D-4D5B-9FA8-6CC1B31D4BFF}.Debug|x86.Build.0 = Debug|x86
+		{2A020A5C-7F8D-4D5B-9FA8-6CC1B31D4BFF}.Release|x86.ActiveCfg = Release|x86
+		{2A020A5C-7F8D-4D5B-9FA8-6CC1B31D4BFF}.Release|x86.Build.0 = Release|x86
+		{2B3ECE2F-6464-4410-9314-F81C7F0FC383}.Debug|x86.ActiveCfg = Debug|x86
+		{2B3ECE2F-6464-4410-9314-F81C7F0FC383}.Debug|x86.Build.0 = Debug|x86
+		{2B3ECE2F-6464-4410-9314-F81C7F0FC383}.Release|x86.ActiveCfg = Release|x86
+		{2B3ECE2F-6464-4410-9314-F81C7F0FC383}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
