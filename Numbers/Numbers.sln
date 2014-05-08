@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monogram", "monogram\monogr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exponent", "ConsoleApplication2\exponent.csproj", "{2B3ECE2F-6464-4410-9314-F81C7F0FC383}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "square.cs", "square.cs\square.cs.csproj", "{914685B9-812C-467E-B719-C59CF002133F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse3.cs", "reverse3.cs\reverse3.cs.csproj", "{D76D2583-4883-4DD2-B624-D9ED47DF2356}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +35,14 @@ Global
 		{2B3ECE2F-6464-4410-9314-F81C7F0FC383}.Debug|x86.Build.0 = Debug|x86
 		{2B3ECE2F-6464-4410-9314-F81C7F0FC383}.Release|x86.ActiveCfg = Release|x86
 		{2B3ECE2F-6464-4410-9314-F81C7F0FC383}.Release|x86.Build.0 = Release|x86
+		{914685B9-812C-467E-B719-C59CF002133F}.Debug|x86.ActiveCfg = Debug|x86
+		{914685B9-812C-467E-B719-C59CF002133F}.Debug|x86.Build.0 = Debug|x86
+		{914685B9-812C-467E-B719-C59CF002133F}.Release|x86.ActiveCfg = Release|x86
+		{914685B9-812C-467E-B719-C59CF002133F}.Release|x86.Build.0 = Release|x86
+		{D76D2583-4883-4DD2-B624-D9ED47DF2356}.Debug|x86.ActiveCfg = Debug|x86
+		{D76D2583-4883-4DD2-B624-D9ED47DF2356}.Debug|x86.Build.0 = Debug|x86
+		{D76D2583-4883-4DD2-B624-D9ED47DF2356}.Release|x86.ActiveCfg = Release|x86
+		{D76D2583-4883-4DD2-B624-D9ED47DF2356}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
