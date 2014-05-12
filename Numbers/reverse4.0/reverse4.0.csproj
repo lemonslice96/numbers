@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D76D2583-4883-4DD2-B624-D9ED47DF2356}</ProjectGuid>
+    <ProjectGuid>{13301FC7-94B3-4A2A-A2CD-78ECD4B2B984}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>reverse3.cs</RootNamespace>
-    <AssemblyName>reverse3.cs</AssemblyName>
+    <RootNamespace>reverse4._0</RootNamespace>
+    <AssemblyName>reverse4.0</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

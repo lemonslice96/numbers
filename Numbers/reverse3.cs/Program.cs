@@ -9,8 +9,10 @@ namespace reverse3.cs
     {
         public static void reverse( ref int thirdint, ref int firstint , ref int secondint)
         {
+           int temp = firstint;
             firstint = thirdint;
-            thirdint = firstint - secondint;
+            thirdint = temp;
+            
         }
         static void Main(string[] args)
         {

@@ -9,7 +9,8 @@ namespace ConsoleApplication2
     {
         public static void square(ref int a)
         {
-            Console.WriteLine(a * a);
+            a = a * a;
+            Console.WriteLine(a);
         }
         static void Main(string[] args)
         {
@@ -18,6 +19,7 @@ namespace ConsoleApplication2
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(a);
             square(ref a);
+            Console.WriteLine(a);
         }
     }
 }
