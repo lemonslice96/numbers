@@ -15,7 +15,7 @@ namespace reverse3.cs
             y = temp2;
             z = temp;
         }
-        static void main(string[] args)
+        static void Main(string[] args)
         {
             int w = 0, x = 1, y = 2, z = 3;
             reverse(ref w, ref x, ref y, ref z);

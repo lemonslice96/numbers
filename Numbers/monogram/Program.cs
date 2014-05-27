@@ -15,7 +15,7 @@ namespace monogram
         }
         static void Main()
         {
-           char a = 'J'; char b = 'A'; char c = 'L'; char d = 'R'; char e = 'J';  char f = 'C';
+           char a = 'J'; char b = 'A'; char c = 'L'; char d = 'R'; char e = 'M';  char f = 'D';
            DisplayMonogram(a, b, c);
            DisplayMonogram(d, e, f);
 
